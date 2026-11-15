@@ -119,6 +119,7 @@ public class Area {
 	 * @return The number of Patients being treated.
 	 */
 	// TODO: method getNumPatients
+	// tocho haz estos
 
 	/**
 	 * Returns the current number of Patients waiting to be treated at the Area. This method must be thread safe.
